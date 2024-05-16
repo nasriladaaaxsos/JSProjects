@@ -1,0 +1,27 @@
+.container {
+    width: 1500px;
+    height: 250px;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+    
+.col {
+    width: 220px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    flex: 4;
+}
+
+.col_one {
+    width: 220px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    flex: 1;
+   
+}
+
+
+

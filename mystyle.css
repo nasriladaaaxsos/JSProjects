@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+.first-parg{
+    color: purple;
+    background-color: chocolate;
+}
+
+#fav-food{
+    font-size: 100px;
+}
+
+p{
+    border: 2px solid blue;
+}
+
+div{
+    color: aqua;
+}
+
+.header{
+    color: #66ff00;
+    text-align: center;
+}
+
+#head{
+    color: green;
+    text-decoration: line-through;
+    font-style: italic;
+}
+
+.hello_world{
+    display: inline;
+}
+
+#submit_btn{
+    padding: 10px;
+}
+
+
+.header > img > #test{
+    height: 150px;
+    width: 150px;
+    border: 2px solid blue;
+}
